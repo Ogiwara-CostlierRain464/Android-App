@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- activity_main.xmlアクティビティ -->
+    <string name="app_name">Notepad</string>
+    
+    <!--activity.edit.xml-->
+    <string name="hint_title">タイトル</string>
+    <string name="hint_content">内容</string>
+
+    <!-- main.xml メニュー -->
+    <string name="action_add">追加</string>
+    
+    <!--edit.xml-->
+    <string name="action_delete">削除</string>
+    <string name="editactivity_title">編集</string>
+    <string name="msg_destruction">メモを破棄しました</string>
+    <string name="msg_del">削除しました</string>
+    
+    <!--main.context.xml-->
+    <string name="context_del">削除</string>
+</resources>
